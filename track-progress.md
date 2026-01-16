@@ -4,7 +4,6 @@
 ### 1] Orientation Class : <small>[27-12-2025]</small>
 
 - [ ] 📄 OWN Notes - [Orientation Class Notes]()
-
 - [ ] 🌍 Assignment - [Hashnode Blog]()
 - [ ] 🚀 Project - [Orientation Class Mini Project]()
 
