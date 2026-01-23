@@ -1,91 +1,111 @@
 # Just Do What You Are Told
 
-- Make strong base & foundation -> sync with class activity
-- focus on live class
-- Internal hackathons
-- Total strength of class, townhall, increase n/w of other persons, meet with corporate persons...
+1. Make **strong base foundation** -> `sync` with class activity
+2. **Focus** on live class
+3. Internal **hackathons**
+4. Total strength of class, townhall, increase n/w of other persons, `meet with corporate persons`...
+
+---
 
 ### How does cohort entirely work?
 
-1. "sat-sun" class => 8pm
-2. Sub class : "Thurs" T-class => 9pm
-3. Masterji App/Web
+1. Sat-Sun class --> 8pm
+2. T-class (sub class) --> 9pm
+3. **Masterji** App/Web
+4. Quiz
 
-### Masterji
+---
 
-- focus on Masterji to good perform in cohort
-- Join Community (inside mobile app masterji) No more DISCORD
+### 1. Masterji
 
-- Focus on Masterji =>
-- Overall Progress -> Corporate checks task time to time complition, Code quality..
+- **Focus on Masterji** to good perform in cohort.
+- **Join Community** -> inside mobile app masterji _No more DISCORD_
 
-FOR HIRING => 1.Interview from chaicode internal team => 2.We received recommendation badge (difficulty to earn that)
+- `Focus on Masterji` -> **Overall Progress** -> Corporate checks task time to time complition, Code quality..
 
-- Assignment, Blogs, Projects, Peer Review Evaluations
+- `For Hiring`
+
+  1. Interview from chaicode internal team
+  2. We received recommendation badge (difficulty to earn that)
+
+- `Assignment, Blogs, Projects, Peer Review Evaluations`
 - Corporate access that Masterji profile (cohort journey)
-  -> Focus on increase Average Writing, code Quality
 
-### Community
+- `Focus` -> on **increase** Average Writing, code Quality
 
-- Inside mobile app masterji -> <i>No more DISCORD</i>
+### 2. Community
 
-### What do with live?
-
-- [x] Only some time code along with..
-  - LIVE class focus on `concept understanding`
-- [x] Every time make NOTE's with copy/pen
-  - Understand the => CONCEPT
-
-### Doubt track of LIVE class
-
-- Standalone in <b>T-class</b> Thursday class
-  - `Doubt track` convert into => dedicated `Project track`(end to end)
-    [X] What work T-class - ChaiCode website -> backend/frontend - What about internal zoom? - Chugli app --> in database design, improvements, scaling time will discuss
+- Inside mobile app Masterji (_No more DISCORD_)
+- Coneect with **corporate** persons
 
 ---
 
+### What do with LIVE?
+
+1. Only **some time code along** with..
+2. LIVE class focus on `concept understanding`
+3. Every time make NOTE's with **copy/pen**
+
+> Understand the => `CONCEPT`
+
 ---
 
-### Main Class => Sat/Sun-8pm
+### T-Class
 
-- [x] After 1hr LIVE Quiz on only on Masterji app
+#### 1. Doubt track of LIVE class
 
-  - focus on `Quiz` based on past learning
+- Standalone in **T-class**
+  - `Doubt track` convert into -> dedicated `Project track`(end to end)
+  - What learn in T-class E.g.
+    - ChaiCode website -> backend/frontend, database
+    - What about internal zoom?
+    - Chugli app -> database design, improvements, scaling time will discuss
 
-- [x] Live Class representative -> Hotseat
+#### 2. Main Class -> Sat/Sun-8pm
 
-### Peer Class/Bounty Classes => T-Class-9pm
+- After 1hr LIVE **Quiz only on `Masterji app`**
+- Live Class representative -> Hotseat
 
-- [x] Bounty classes on peer classes
+> Focus on `Quiz` based on past learning..
+
+#### 3. Peer Class/Bounty Classes -> T-Class-9pm
+
+- Bounty classes on peer classes
   - With Own NOTE's, presentation & present it LIVE class
   - Increase communication, leadership
   - Repeat same past class in own presentation
 
-### 1. Blogs Assignments
+---
 
-- Blog => Write documentation then after reading documentation easily
-- <b>Technical writing</b> is IMP thing
+### Main Class
 
-### 2. Peer Assignments
+#### 1. Blogs Assignments
 
-- Time to time complete before deadline & check another random person assignment
-- Full fill responsiblity time to time
+- Blog -> Write documentation then after reading documentation easily
 
-### 3. Projects
+> `Technical writing` is very important skill.
+
+#### 2. Peer Assignments
+
+- Time to time complete before deadline over
+- Check assignment of another random person
+- Full fill responsiblity **time to time**
+
+#### 3. Projects
 
 - PRD -> Project Requirement Document
   - GYM site, LMS,..
 
-### 4. Seperate project track
+#### 4. Seperate project track
 
 - End to end full stack project build
 
-### 5. Learn & Practice through Labs
+#### 5. Learn & Practice through Labs
 
-    - After completing all basics are done, html,js,react,..
-    - Lab => HTML, CSS, SQL,..
-    	- Activity completion in Lab
-    - CSS Quizes
-    	- Aptitude Quizes
+- After completing all basics are done, html,js,react,..
+  - Practice on Lab -> HTML, CSS, SQL,..
+    - Activity completion in Lab
+  - CSS Quizes
+  - Aptitude Quizes
 
-
+---

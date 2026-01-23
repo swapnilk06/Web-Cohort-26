@@ -1,0 +1,6 @@
++ const fname = 'Swapnil';
++ const lname = 'K';
+	- const lname = 'K';
++ const lname = '';
+
++ // auto add change  
