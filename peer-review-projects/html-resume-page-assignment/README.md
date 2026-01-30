@@ -7,6 +7,10 @@ The main focus of this assignment is to understand **HTML structure, semantics, 
 
 ---
 
+Project Livelink -> [Swapnil Kathale](http://swapnilkathale.in/ "Visit Swapnil Kathale's website")
+
+---
+
 ### Project Objective
 
 - Practice **pure HTML**
@@ -85,5 +89,5 @@ Add screenshots inside the `screenshots` folder.
 
 ---
 
-Project Livelink -> 
+Project Livelink -> [Swapnil Kathale](http://swapnilkathale.in/ "Visit Swapnil Kathale's website")
 
